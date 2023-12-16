@@ -1,4 +1,5 @@
 # Historical Redlining in Los Angeles County
+
 ![los_angeles](https://cdn.villaway.com/202303/images/5b469de9e4b00fdbef4055cc/81em0u4af4_202303.jpg)
 ##Background
 
