@@ -1,6 +1,7 @@
 # Historical Redlining in Los Angeles County
 
-!['los angeles'](https://cdn.villaway.com/202303/images/5b469de9e4b00fdbef4055cc/81em0u4af4_202303.jpg)
+![la](https://www.tripsavvy.com/thmb/UfG0_2WB67pErEqfIQMvEjV4W20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-947698310-1729da81e58f40058a9e45ba82532d57-2f992696318c42cbbd595ef3ec1043fd.jpg)
+
 ##Background
 
 In the 1930s, the Home Owners’ Loan Corporation (HOLC), a New Deal initiative, assessed neighborhoods for real estate investment safety. The HOLC’s grading system (A for green, B for blue, C for yellow, and D for red) was then used to deny loans for home ownership, a discriminatory practice known as “redlining.” This historical injustice has affected community wealth and health. Redlined areas exhibit lower greenery levels and higher temperatures compared to other neighborhoods.
